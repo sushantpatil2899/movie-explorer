@@ -4,8 +4,7 @@ A small Next.js web app for searching movies (via TMDB), viewing details, and sa
 
 ## Live demo
 
-<!-- Paste the Vercel URL here once deployed -->
-_TBD — deploy to Vercel and add the link here._
+<https://movie-explorer-yxad.vercel.app/>
 
 ## Features
 
